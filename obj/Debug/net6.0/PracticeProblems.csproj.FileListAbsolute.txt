@@ -1,0 +1,15 @@
+F:\Visual Studio\PracticeProblems\PracticeProblems\obj\Debug\net6.0\PracticeProblems.csproj.AssemblyReference.cache
+F:\Visual Studio\PracticeProblems\PracticeProblems\obj\Debug\net6.0\PracticeProblems.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual Studio\PracticeProblems\PracticeProblems\obj\Debug\net6.0\PracticeProblems.AssemblyInfoInputs.cache
+F:\Visual Studio\PracticeProblems\PracticeProblems\obj\Debug\net6.0\PracticeProblems.AssemblyInfo.cs
+F:\Visual Studio\PracticeProblems\PracticeProblems\obj\Debug\net6.0\PracticeProblems.csproj.CoreCompileInputs.cache
+F:\Visual Studio\PracticeProblems\PracticeProblems\bin\Debug\net6.0\PracticeProblems.exe
+F:\Visual Studio\PracticeProblems\PracticeProblems\bin\Debug\net6.0\PracticeProblems.deps.json
+F:\Visual Studio\PracticeProblems\PracticeProblems\bin\Debug\net6.0\PracticeProblems.runtimeconfig.json
+F:\Visual Studio\PracticeProblems\PracticeProblems\bin\Debug\net6.0\PracticeProblems.dll
+F:\Visual Studio\PracticeProblems\PracticeProblems\bin\Debug\net6.0\PracticeProblems.pdb
+F:\Visual Studio\PracticeProblems\PracticeProblems\obj\Debug\net6.0\PracticeProblems.dll
+F:\Visual Studio\PracticeProblems\PracticeProblems\obj\Debug\net6.0\refint\PracticeProblems.dll
+F:\Visual Studio\PracticeProblems\PracticeProblems\obj\Debug\net6.0\PracticeProblems.pdb
+F:\Visual Studio\PracticeProblems\PracticeProblems\obj\Debug\net6.0\PracticeProblems.genruntimeconfig.cache
+F:\Visual Studio\PracticeProblems\PracticeProblems\obj\Debug\net6.0\ref\PracticeProblems.dll
